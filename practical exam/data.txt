@@ -1,0 +1,12 @@
+Student number : 1Enter roll no. : 6422124
+Enter Name : 6422164snEnter Couse : c
+
+
+Student number : 2Enter roll no. : 6422268
+Enter Name : 6422208snEnter Couse : cs
+
+
+Student number : 3Enter roll no. : 6422280
+Enter Name : 6422252snEnter Couse : cs
+
+
